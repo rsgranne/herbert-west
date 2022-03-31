@@ -1,0 +1,17 @@
+/* Navigation */
+
+nav {
+  height: 50px;
+}
+
+nav svg {
+  height: 50px;
+  width: auto;
+}
+
+/* Footer */
+
+footer svg {
+  width: 50px;
+  height: auto;
+}
